@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds005752	1306	289	1	2	1029	536	471	32944327557	4698831171	32015867	322620.0	313.5276967930029	202586112	196876.68804664724	anat,dwi,fmap,func,meg,perf
